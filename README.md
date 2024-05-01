@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="slider.js"></script>
+
+    <title> JAM CULTURE&CO </title>
+</head>
+<body class="img" >
+    <header>
+        <div class="titre">
+
+        <h1 class="jam">---JAM CULTURE & CO --- </h1>
+        </div>
+       
+            <img src = "image/LOGO.jpeg" width= 190px >
+
+    </div>
+
+    
+        <div class="principal">
+          
+            <div class="onglet">
+            <ul>
+                <li>
+ <a href="file:///C:/Users/masal/OneDrive/Bureau/code/JAM%20CULTURE&CO/JAM%20CULTURE&CO.html">Acceuil</a>
+                </li>
+                <li>
+ <a href="file:///C:/Users/masal/OneDrive/Bureau/code/JAM%20CULTURE&CO/PHOTOS%20&%20VIDEOS.html">PHOTOS&VIDEOS</a>
+                </li>
+                <li>
+                    <a href="#">NOUS SOUTENIRS</a>
+                
+                </li>
+                <li>
+                    <a href="A PROPOS DE NOUS.html">A propos de nous</a>
+                </li>
+                <li>
+                    
+                </li>
+            </ul>
+        </div>
+       
+      
+        </div><br>
+       
+            
+            <div class="button">
+                <a href="#" class="btn">PROJETS</a>
+                <a href="#" class="btn">ACTIONS</a>
+            </div>
+           
+           
+        </div>
+        
+    </header>
+
+    
+    
+</br>
+<div>
+    
+    <p class="objectif"> -----JAM CULTURE&CO----- <br>
+        Objectif : favoriser le lien social et le vivre ensemble ; <br>
+       favoriser l'accès pour tous, à la culture de l'art et aux sports, loisirs et aux vacances en particulier des jeunes  et des femmes
+       habitants des quartiers prioritaires de la politique de la ville ; favoriser l'inclusion numérique dans les quartiers prioritaires <br>
+       développer la création et les actions culturelles et sociales ; développer des projets interculturels et actions humanitaires ; <br>
+       promouvoir l'agriculture de proximité diminuant l'empreinte carbonne des productions et favorisant l'économie locale en circuits courts
+       (France et Afrique); favoriser l'insertion sociale à travers le bénévolat, l'emploi et l'entreprenariat; la diffusion de spectacles vivants 
+       pour des activités musicales (organisation de concerts, et de festivals) ; diffusion d'oeuvres dramatiques, lyriques, chorégraphiques,
+       cinématographique, et de cirques ; création et production d'oeuvres musicales, artistiques, audio visuels.
+         
+       <p class="contacts"> CONTACTS : HAYATE
+        / EMAIL : jamcultures.co@gmail.com </p> 
+    </p>
+         
+         
+</div>
+</body><br>
+
+
+
+    <footer class="footer">
+       
+       ©Les sites cités ci-dessus sont protégés par les dispositions du Code de la propriété intellectuelle,
+         entre autre par celles de ses dispositions relatives à la propriété littéraire et artistique, aux droits
+          d'auteur et à la protection des bases de données.
+         Aucune reproduction, même partielle et par quelque moyen que ce soit, ne peut être faite de ces sites et 
+         de l'ensemble de ses contenus : images, vidéos, extraits sonores, textes sans l'autorisation expresse du webmaster
+          de ces sites, sous peine de poursuites judiciaires.      
+        Le contrevenant s'expose à des sanctions civiles et pénales et notamment aux peines prévues aux articles 
+        L.335-2 et L.343-1 du Code de la propriété intellectuelle.
+        </footer>
+</section>
+
+
+</html>
+
